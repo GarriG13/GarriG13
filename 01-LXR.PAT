@@ -1,0 +1,14 @@
+# 64 steps, track 1 (Kick)
+Step: Gate Velocity Accent Note
+1: ON 120 YES C1
+5: ON 115 NO  C1
+9: ON 123 YES C1
+13: ON 110 NO C1
+21: ON 118 NO C1
+25: ON 125 YES C1
+33: ON 110 NO C1
+37: ON 120 YES C1
+41: ON 105 NO C1
+49: ON 122 YES C1
+53: ON 108 NO C1
+61: ON 118 YES C1
